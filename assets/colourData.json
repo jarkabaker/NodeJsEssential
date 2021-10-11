@@ -1,0 +1,19 @@
+{
+    "sample": true,
+    "name": "colour list",
+    "description": "A list of colours",
+    "colourList": [
+        {
+            "colour": "red",
+            "hex": "#FF0000"
+        },
+        {
+            "colour": "green",
+            "hex": "#00FF00"
+        },
+        {
+            "colour": "blue",
+            "hex": "#0000FF"
+        }
+    ]
+}
